@@ -1,0 +1,15 @@
+2025-07-22 11:53:21,843 - __main__ - INFO - Running quick backtest for 1m with ₹50,000
+2025-07-22 11:53:21,844 - __main__ - ERROR - Error in quick backtest: name 'RiskManager' is not defined
+2025-07-22 11:53:44,836 - __main__ - INFO - Running quick backtest for 1m with ₹50,000
+2025-07-22 11:53:44,839 - __main__ - ERROR - Error in quick backtest: name 'timedelta' is not defined
+2025-07-22 11:54:11,400 - __main__ - INFO - Running quick backtest for 1m with ₹50,000
+2025-07-22 11:54:11,401 - trading_system.backtester - INFO - Starting backtest: 49 symbols, 2025-04-23 to 2025-07-22
+2025-07-22 11:54:11,402 - trading_system.backtester - INFO - Analyzing 65 trading days
+2025-07-22 11:54:11,402 - trading_system.backtester - INFO - Processing day 1/65: 2025-04-23
+2025-07-22 11:54:11,402 - __main__ - ERROR - Error in quick backtest: 'TradingConfig' object has no attribute 'max_positions'
+2025-07-22 11:55:14,572 - __main__ - INFO - Running quick backtest for 1m with ₹50,000
+2025-07-22 11:55:14,574 - trading_system.backtester - INFO - Starting backtest: 49 symbols, 2025-04-23 to 2025-07-22
+2025-07-22 11:55:14,574 - trading_system.backtester - INFO - Analyzing 65 trading days
+2025-07-22 11:55:14,574 - trading_system.backtester - INFO - Processing day 1/65: 2025-04-23
+2025-07-22 11:55:14,582 - trading_system.backtester - INFO - Processing day 51/65: 2025-07-02
+2025-07-22 11:55:14,585 - trading_system.backtester - INFO - Backtest completed: 0 trades, 0.0% win rate
